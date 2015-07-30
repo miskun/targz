@@ -1,0 +1,28 @@
+{
+  "name": "targz",
+  "version": "1.0.0",
+  "description": "TarGz for NodeJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miskun/targz.git"
+  },
+  "keywords": [
+    "targz",
+    "tar.gz",
+    "tar",
+    "gz",
+    "gzip",
+    "node"
+  ],
+  "author": "Miska Kaipiainen <miska.kaipiainen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miskun/targz/issues"
+  },
+  "homepage": "https://github.com/miskun/targz#readme",
+  "dependencies": {
+    "tar-fs": "^1.8.1"
+  }
+}
