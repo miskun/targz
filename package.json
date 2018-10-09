@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/miskun/targz#readme",
   "dependencies": {
-    "tar-fs": "^1.8.1"
+    "tar-fs": "^1.16.3"
   }
 }
